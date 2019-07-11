@@ -1,0 +1,867 @@
+INFO 2019-04-02 09:15:41:698 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:41:699 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:41:801 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:41:880 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:42:088 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:42:192 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:42:390 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:42:591 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:42:765 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:42:862 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:053 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:185 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:422 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:518 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:615 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:773 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:43:998 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:44:465 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:44:584 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:44:785 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:44:872 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:44:972 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:45:142 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:45:457 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:45:618 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:45:795 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:46:045 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:46:459 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:46:811 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:46:989 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:47:161 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:47:362 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:47:540 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:47:815 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:47:996 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:133 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:240 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:376 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:544 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:657 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:734 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:48:880 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:239 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:397 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:397 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:503 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:589 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:669 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:776 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:892 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:49:968 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:50:060 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:50:061 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:50:061 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:50:066 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:067 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:067 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:067 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:067 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:067 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:068 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:068 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:068 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:068 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:069 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:069 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:069 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:069 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:069 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:070 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:070 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:070 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:070 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:071 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:071 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:071 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:071 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:071 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:072 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:072 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:072 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:072 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:073 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:073 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:073 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:073 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:074 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:074 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:074 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:074 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:074 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:075 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:075 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:075 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:075 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:075 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:076 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:076 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:076 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\motan-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:076 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:077 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:077 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:077 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:077 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:078 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-04-02 09:15:50:078 PluginResourcesResolver :  find skywalking plugin define in jar:file:D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+DEBUG 2019-04-02 09:15:50:160 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQProducerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:205 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQConsumerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:206 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.CanalInstrumentation. 
+DEBUG 2019-04-02 09:15:50:208 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.ClusterNodeInstrumentation. 
+DEBUG 2019-04-02 09:15:50:209 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.DubboInstrumentation. 
+DEBUG 2019-04-02 09:15:50:211 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.esjob.define.JobExecutorInstrumentation. 
+DEBUG 2019-04-02 09:15:50:213 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportProxyClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:214 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportActionNodeProxyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:215 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.PlainListenableActionFutureInstrumentation. 
+DEBUG 2019-04-02 09:15:50:217 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.GenericActionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:218 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportClientNodesServiceInstrumentation. 
+DEBUG 2019-04-02 09:15:50:219 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:221 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractStubInstrumentation. 
+DEBUG 2019-04-02 09:15:50:222 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractServerImplBuilderInstrumentation. 
+DEBUG 2019-04-02 09:15:50:224 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.ClientCallsInstrumentation. 
+DEBUG 2019-04-02 09:15:50:225 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.DriverInstrumentation. 
+DEBUG 2019-04-02 09:15:50:227 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:229 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.PooledJdbcConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:230 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcXAConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:231 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:233 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.SessionRequestInstrumentation. 
+DEBUG 2019-04-02 09:15:50:235 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncRequestExecutorInstrumentation. 
+DEBUG 2019-04-02 09:15:50:236 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.AbstractHttpClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:238 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:239 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.MinimalHttpClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:240 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.DefaultRequestDirectorInstrumentation. 
+DEBUG 2019-04-02 09:15:50:241 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-04-02 09:15:50:243 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation. 
+DEBUG 2019-04-02 09:15:50:244 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisClusterInstrumentation. 
+DEBUG 2019-04-02 09:15:50:245 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisInstrumentation. 
+DEBUG 2019-04-02 09:15:50:247 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v90.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-04-02 09:15:50:248 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-04-02 09:15:50:249 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.JettyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:251 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.DispatcherInstrumentation. 
+DEBUG 2019-04-02 09:15:50:252 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.CallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:254 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaConsumerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:256 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaProducerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:257 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.ProducerRecordInstrumentation. 
+DEBUG 2019-04-02 09:15:50:258 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:260 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionImplInstrumentation. 
+DEBUG 2019-04-02 09:15:50:261 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v3.define.MongoDBInstrumentation. 
+DEBUG 2019-04-02 09:15:50:262 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.DriverInstrumentation. 
+DEBUG 2019-04-02 09:15:50:264 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql5xConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:265 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql50ConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:266 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.CallableInstrumentation. 
+DEBUG 2019-04-02 09:15:50:267 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.PreparedStatementInstrumentation. 
+DEBUG 2019-04-02 09:15:50:269 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.StatementInstrumentation. 
+DEBUG 2019-04-02 09:15:50:270 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.FailoverConnectionProxyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:271 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.LoadBalancedConnectionProxyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:272 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.ReplicationConnectionProxyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:274 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpGetSenderInstrumentation. 
+DEBUG 2019-04-02 09:15:50:276 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpPostSenderInstrumentation. 
+DEBUG 2019-04-02 09:15:50:277 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpFilePostSenderInstrumentation. 
+DEBUG 2019-04-02 09:15:50:278 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.mvc.define.ActionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:280 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.RealCallInstrumentation. 
+DEBUG 2019-04-02 09:15:50:281 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.CallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:282 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.AsyncCallInstrumentation. 
+DEBUG 2019-04-02 09:15:50:283 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.DriverInstrumentation. 
+DEBUG 2019-04-02 09:15:50:285 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc3ConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:286 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc4ConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:288 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.ConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:289 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.AbstractJdbc2StatementInstrumentation. 
+DEBUG 2019-04-02 09:15:50:290 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgCallableStatementInstrumentation. 
+DEBUG 2019-04-02 09:15:50:291 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgPreparedStatementInstrumentation. 
+DEBUG 2019-04-02 09:15:50:292 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgStatementInstrumentation. 
+DEBUG 2019-04-02 09:15:50:293 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQProducerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:295 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQConsumerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:296 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.ConnectionManagerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:298 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisConnectionInstrumentation. 
+DEBUG 2019-04-02 09:15:50:299 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisClientInstrumentation. 
+DEBUG 2019-04-02 09:15:50:300 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-04-02 09:15:50:302 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.ResponseExtractorFutureInstrumentation. 
+DEBUG 2019-04-02 09:15:50:303 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-04-02 09:15:50:305 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:307 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:308 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-04-02 09:15:50:309 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.SendCallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:311 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:312 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-04-02 09:15:50:313 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-04-02 09:15:50:315 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.SendCallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:317 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:318 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:319 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:321 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:322 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sjdbc.define.ExecutorInstrumentation. 
+DEBUG 2019-04-02 09:15:50:324 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.cloud.netflix.feign.v11.define.NetflixFeignInstrumentation. 
+DEBUG 2019-04-02 09:15:50:325 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.FailureCallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:327 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.SuccessCallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:328 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.ListenableFutureCallbackInstrumentation. 
+DEBUG 2019-04-02 09:15:50:330 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-04-02 09:15:50:331 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-04-02 09:15:50:333 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopExpressionMatchInstrumentation. 
+DEBUG 2019-04-02 09:15:50:334 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-04-02 09:15:50:335 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:338 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+DEBUG 2019-04-02 09:15:50:339 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:340 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInvokerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:342 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:345 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:347 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+DEBUG 2019-04-02 09:15:50:348 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:349 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:352 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:353 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-04-02 09:15:50:354 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.commons.define.AnnotationMethodHandlerAdapterInstrumentation. 
+DEBUG 2019-04-02 09:15:50:356 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spymemcached.v2.define.MemcachedInstrumentation. 
+DEBUG 2019-04-02 09:15:50:357 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.struts2.define.Struts2Instrumentation. 
+DEBUG 2019-04-02 09:15:50:359 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.RequestDispatcherImplInstrumentation. 
+DEBUG 2019-04-02 09:15:50:360 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.UndertowInstrumentation. 
+DEBUG 2019-04-02 09:15:50:362 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations20xInstrumentation. 
+DEBUG 2019-04-02 09:15:50:363 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations21xInstrumentation. 
+DEBUG 2019-04-02 09:15:50:365 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:368 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:369 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.xmemcached.v2.define.XMemcachedInstrumentation. 
+DEBUG 2019-04-02 09:15:50:371 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.patch.WrapperInstrumentation. 
+DEBUG 2019-04-02 09:15:50:373 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanConsumerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:374 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanProviderInstrumentation. 
+DEBUG 2019-04-02 09:15:50:376 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcConsumerInstrumentation. 
+DEBUG 2019-04-02 09:15:50:378 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcProviderInstrumentation. 
+DEBUG 2019-04-02 09:15:50:379 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-04-02 09:15:50:380 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-04-02 09:15:50:382 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.TraceIdPatternConverterActivation. 
+DEBUG 2019-04-02 09:15:50:384 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v2.x.Log4j2OutputAppenderActivation. 
+DEBUG 2019-04-02 09:15:50:385 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation. 
+DEBUG 2019-04-02 09:15:50:387 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.mdc.MDCConverterActivation. 
+DEBUG 2019-04-02 09:15:50:388 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.tracer.SkywalkingTracerActivation. 
+DEBUG 2019-04-02 09:15:50:390 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.span.SkywalkingSpanActivation. 
+DEBUG 2019-04-02 09:15:50:391 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.continuation.SkywalkingContinuationActivation. 
+DEBUG 2019-04-02 09:15:50:393 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.ActiveSpanTagActivation. 
+DEBUG 2019-04-02 09:15:50:394 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceAnnotationActivation. 
+DEBUG 2019-04-02 09:15:50:396 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceContextActivation. 
+DEBUG 2019-04-02 09:15:50:398 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.CallableOrRunnableActivation. 
+DEBUG 2019-04-02 09:15:53:708 GRPCChannelManager :  Selected collector grpc service running, reconnect:true. 
+DEBUG 2019-04-02 09:15:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:DISCONNECT. 
+DEBUG 2019-04-02 09:15:54:999 AbstractClassEnhancePluginDefine :  prepare to enhance class com.example.ZuulApplication by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+WARN 2019-04-02 09:15:55:007 AbstractClassEnhancePluginDefine :  enhance class com.example.ZuulApplication by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-04-02 09:15:55:007 AbstractClassEnhancePluginDefine :  prepare to enhance class com.example.ZuulApplication by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+INFO 2019-04-02 09:15:55:332 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:333 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:334 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:334 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:336 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:336 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:337 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:338 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:338 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:339 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:340 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:341 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:341 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:342 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:343 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:343 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:344 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:344 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:345 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:345 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:346 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:347 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:348 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:349 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:349 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:350 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:350 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:351 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:351 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:352 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:352 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:353 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:354 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:354 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:355 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:355 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:356 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:356 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:364 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:365 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:365 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:366 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:366 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:367 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:367 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:369 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:370 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:370 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:371 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:372 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:373 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:374 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:385 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-04-02 09:15:55:386 AgentClassLoader :  D:\Workspace\Skywalking\apache-skywalking-apm-incubating\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+DEBUG 2019-04-02 09:15:55:445 AbstractClassEnhancePluginDefine :  enhance class com.example.ZuulApplication by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation completely. 
+DEBUG 2019-04-02 09:15:55:446 AbstractClassEnhancePluginDefine :  prepare to enhance class com.example.ZuulApplication by org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+WARN 2019-04-02 09:15:55:448 AbstractClassEnhancePluginDefine :  enhance class com.example.ZuulApplication by plugin org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.BindingContext is not existed. 
+DEBUG 2019-04-02 09:15:55:448 SkyWalkingAgent :  Finish the prepare stage for com.example.ZuulApplication. 
+DEBUG 2019-04-02 09:15:56:068 SkyWalkingAgent :  On Transformation class com.example.ZuulApplication. 
+DEBUG 2019-04-02 09:15:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:01:157 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:02:318 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-04-02 09:16:02:326 AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation completely. 
+DEBUG 2019-04-02 09:16:02:327 SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-04-02 09:16:02:424 SkyWalkingAgent :  On Transformation class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-04-02 09:16:02:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:03:180 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-04-02 09:16:03:207 AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation completely. 
+DEBUG 2019-04-02 09:16:03:207 SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-04-02 09:16:03:374 SkyWalkingAgent :  On Transformation class org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-04-02 09:16:05:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:05:863 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.client.RestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-04-02 09:16:05:890 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.client.RestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation completely. 
+DEBUG 2019-04-02 09:16:05:891 SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.client.RestTemplate. 
+DEBUG 2019-04-02 09:16:06:020 SkyWalkingAgent :  On Transformation class org.springframework.web.client.RestTemplate. 
+DEBUG 2019-04-02 09:16:06:979 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.client.AsyncRestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-04-02 09:16:07:032 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.client.AsyncRestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation completely. 
+DEBUG 2019-04-02 09:16:07:032 SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.client.AsyncRestTemplate. 
+DEBUG 2019-04-02 09:16:07:118 SkyWalkingAgent :  On Transformation class org.springframework.web.client.AsyncRestTemplate. 
+DEBUG 2019-04-02 09:16:07:755 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+WARN 2019-04-02 09:16:07:755 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-04-02 09:16:07:756 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+WARN 2019-04-02 09:16:07:756 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-04-02 09:16:07:756 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-04-02 09:16:07:756 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation completely. 
+DEBUG 2019-04-02 09:16:07:756 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+WARN 2019-04-02 09:16:07:756 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.BindingContext is not existed. 
+DEBUG 2019-04-02 09:16:07:757 SkyWalkingAgent :  Finish the prepare stage for org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController. 
+DEBUG 2019-04-02 09:16:07:788 SkyWalkingAgent :  On Transformation class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController. 
+DEBUG 2019-04-02 09:16:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:11:108 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.aop.framework.DefaultAopProxyFactory by org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-04-02 09:16:11:121 AbstractClassEnhancePluginDefine :  enhance class org.springframework.aop.framework.DefaultAopProxyFactory by org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation completely. 
+DEBUG 2019-04-02 09:16:11:122 SkyWalkingAgent :  Finish the prepare stage for org.springframework.aop.framework.DefaultAopProxyFactory. 
+DEBUG 2019-04-02 09:16:11:150 SkyWalkingAgent :  On Transformation class org.springframework.aop.framework.DefaultAopProxyFactory. 
+DEBUG 2019-04-02 09:16:11:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:12:990 AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.catalina.core.StandardHostValve by org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-04-02 09:16:13:015 AbstractClassEnhancePluginDefine :  enhance class org.apache.catalina.core.StandardHostValve by org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation completely. 
+DEBUG 2019-04-02 09:16:13:015 SkyWalkingAgent :  Finish the prepare stage for org.apache.catalina.core.StandardHostValve. 
+DEBUG 2019-04-02 09:16:13:047 SkyWalkingAgent :  On Transformation class org.apache.catalina.core.StandardHostValve. 
+DEBUG 2019-04-02 09:16:14:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:15:728 AbstractClassEnhancePluginDefine :  prepare to enhance class com.netflix.hystrix.strategy.HystrixPlugins by org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation. 
+DEBUG 2019-04-02 09:16:15:745 AbstractClassEnhancePluginDefine :  enhance class com.netflix.hystrix.strategy.HystrixPlugins by org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation completely. 
+DEBUG 2019-04-02 09:16:15:745 SkyWalkingAgent :  Finish the prepare stage for com.netflix.hystrix.strategy.HystrixPlugins. 
+DEBUG 2019-04-02 09:16:15:756 SkyWalkingAgent :  On Transformation class com.netflix.hystrix.strategy.HystrixPlugins. 
+DEBUG 2019-04-02 09:16:17:715 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:20:843 AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.http.impl.client.InternalHttpClient by org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation. 
+DEBUG 2019-04-02 09:16:20:922 AbstractClassEnhancePluginDefine :  enhance class org.apache.http.impl.client.InternalHttpClient by org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation completely. 
+DEBUG 2019-04-02 09:16:20:922 SkyWalkingAgent :  Finish the prepare stage for org.apache.http.impl.client.InternalHttpClient. 
+DEBUG 2019-04-02 09:16:20:934 SkyWalkingAgent :  On Transformation class org.apache.http.impl.client.InternalHttpClient. 
+DEBUG 2019-04-02 09:16:23:778 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:23:799 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:16:25:470 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+WARN 2019-04-02 09:16:25:470 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-04-02 09:16:25:470 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+WARN 2019-04-02 09:16:25:470 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-04-02 09:16:25:470 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-04-02 09:16:25:473 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation completely. 
+DEBUG 2019-04-02 09:16:25:473 SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.method.HandlerMethod. 
+DEBUG 2019-04-02 09:16:25:502 SkyWalkingAgent :  On Transformation class org.springframework.web.method.HandlerMethod. 
+DEBUG 2019-04-02 09:16:25:744 SkyWalkingAgent :  Matched class com.netflix.hystrix.HystrixCommand, but ignore by finding mechanism. 
+DEBUG 2019-04-02 09:16:25:827 SkyWalkingAgent :  On Transformation class com.netflix.hystrix.HystrixCommand. 
+DEBUG 2019-04-02 09:16:26:734 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:27:626 TraceSegmentServiceClient :  1 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:16:27:726 AbstractClassEnhancePluginDefine :  prepare to enhance class feign.Client$Default by org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation. 
+DEBUG 2019-04-02 09:16:27:739 AbstractClassEnhancePluginDefine :  enhance class feign.Client$Default by org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation completely. 
+DEBUG 2019-04-02 09:16:27:739 SkyWalkingAgent :  Finish the prepare stage for feign.Client$Default. 
+DEBUG 2019-04-02 09:16:27:747 SkyWalkingAgent :  On Transformation class feign.Client$Default. 
+DEBUG 2019-04-02 09:16:28:160 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.support.InvocableHandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+WARN 2019-04-02 09:16:28:161 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-04-02 09:16:28:161 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.support.InvocableHandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+WARN 2019-04-02 09:16:28:161 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-04-02 09:16:28:170 SkyWalkingAgent :  On Transformation class org.springframework.web.method.support.InvocableHandlerMethod. 
+DEBUG 2019-04-02 09:16:29:716 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:30:079 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.cloud.netflix.zuul.filters.route.apache.HttpClientRibbonCommand by org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-04-02 09:16:30:091 AbstractClassEnhancePluginDefine :  enhance class org.springframework.cloud.netflix.zuul.filters.route.apache.HttpClientRibbonCommand by org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation completely. 
+DEBUG 2019-04-02 09:16:30:091 SkyWalkingAgent :  Finish the prepare stage for org.springframework.cloud.netflix.zuul.filters.route.apache.HttpClientRibbonCommand. 
+DEBUG 2019-04-02 09:16:30:155 SkyWalkingAgent :  On Transformation class org.springframework.cloud.netflix.zuul.filters.route.apache.HttpClientRibbonCommand. 
+DEBUG 2019-04-02 09:16:30:161 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.cloud.netflix.zuul.filters.route.support.AbstractRibbonCommand by org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-04-02 09:16:30:161 AbstractClassEnhancePluginDefine :  enhance class org.springframework.cloud.netflix.zuul.filters.route.support.AbstractRibbonCommand by org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation completely. 
+DEBUG 2019-04-02 09:16:30:161 SkyWalkingAgent :  Finish the prepare stage for org.springframework.cloud.netflix.zuul.filters.route.support.AbstractRibbonCommand. 
+DEBUG 2019-04-02 09:16:30:196 SkyWalkingAgent :  On Transformation class org.springframework.cloud.netflix.zuul.filters.route.support.AbstractRibbonCommand. 
+DEBUG 2019-04-02 09:16:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:35:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:38:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:44:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:50:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:16:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:16:59:702 TraceSegmentServiceClient :  16 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:16:59:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:02:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:20:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:17:23:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:29:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:30:657 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:17:32:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:38:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:41:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:44:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:17:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:17:59:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:01:810 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:18:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:14:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:18:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:29:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:32:548 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:18:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:38:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:38:833 AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.catalina.core.ApplicationDispatcher by org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-04-02 09:18:38:842 AbstractClassEnhancePluginDefine :  enhance class org.apache.catalina.core.ApplicationDispatcher by org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation completely. 
+DEBUG 2019-04-02 09:18:38:842 SkyWalkingAgent :  Finish the prepare stage for org.apache.catalina.core.ApplicationDispatcher. 
+DEBUG 2019-04-02 09:18:38:873 SkyWalkingAgent :  On Transformation class org.apache.catalina.core.ApplicationDispatcher. 
+DEBUG 2019-04-02 09:18:41:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:44:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:47:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:18:53:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:18:59:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:02:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:03:648 TraceSegmentServiceClient :  11 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:19:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:20:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:23:698 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:19:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:32:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:34:674 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:19:35:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:41:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:50:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:19:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:56:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:19:59:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:02:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:05:408 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:20:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:17:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:20:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:36:219 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:20:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:41:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:44:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:50:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:20:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:20:59:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:02:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:06:829 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:21:08:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:14:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:17:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:20:718 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:21:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:26:716 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:29:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:32:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:37:645 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:21:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:41:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:21:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:21:59:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:05:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:08:614 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:22:08:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:14:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:20:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:23:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:22:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:26:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:29:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:38:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:39:339 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:22:41:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:47:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:50:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:22:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:22:59:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:08:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:10:185 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:23:11:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:17:730 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:23:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:26:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:41:322 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:23:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:44:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:23:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:23:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:12:093 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:24:14:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:20:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:24:23:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:26:730 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:29:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:32:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:35:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:41:720 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:42:834 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:24:44:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:47:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:24:53:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:24:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:02:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:13:771 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:25:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:17:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:25:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:26:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:29:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:32:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:41:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:44:769 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:25:47:716 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:50:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:25:53:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:25:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:14:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:15:752 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:26:17:715 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:20:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:26:23:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:26:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:32:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:35:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:44:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:46:608 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:26:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:50:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:26:53:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:26:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:02:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:17:617 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:27:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:20:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:27:23:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:26:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:29:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:35:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:47:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:48:630 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:27:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:27:53:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:27:59:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:02:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:05:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:14:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:17:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:19:574 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:28:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:23:698 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:28:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:29:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:35:716 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:44:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:50:458 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:28:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:28:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:56:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:28:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:02:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:08:721 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:11:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:14:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:17:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:21:235 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:29:23:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:29:23:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:32:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:35:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:41:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:44:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:52:053 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:29:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:29:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:56:716 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:29:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:08:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:17:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:20:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:22:996 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:30:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:30:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:29:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:50:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:53:671 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:30:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:30:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:56:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:30:59:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:02:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:05:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:17:743 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:20:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:23:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:31:23:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:24:441 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:31:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:29:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:32:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:35:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:38:720 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:47:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:50:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:31:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:55:346 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:31:56:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:31:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:05:714 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:14:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:17:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:23:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:32:23:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:26:243 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:32:26:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:32:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:44:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:47:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:32:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:56:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:32:57:288 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:32:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:11:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:14:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:17:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:20:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:23:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:33:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:26:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:28:211 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:33:29:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:38:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:53:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:33:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:33:58:956 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:33:59:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:05:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:11:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:14:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:17:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:23:697 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:34:23:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:26:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:29:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:29:749 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:34:32:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:35:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:44:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:47:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:50:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:34:53:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:34:59:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:00:769 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:35:02:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:08:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:11:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:14:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:17:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:35:23:715 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:26:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:29:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:31:506 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:35:32:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:35:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:38:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:41:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:44:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:47:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:50:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:53:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:35:53:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:56:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:35:59:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:02:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:02:796 TraceSegmentServiceClient :  10 trace segments have been sent to collector. 
+DEBUG 2019-04-02 09:36:05:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:08:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:11:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:14:713 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:17:717 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:20:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:23:696 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-04-02 09:36:23:712 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-04-02 09:36:26:711 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
